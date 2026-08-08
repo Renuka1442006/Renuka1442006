@@ -42,9 +42,7 @@
         <code><b>Code</b></code> ➔ <code><b>Optimize</b></code> ➔ <code><b>Deploy</b></code> ➔ <code><b>Scale</b></code>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,react,nodejs,mongodb,mysql,git,github" width="280" />
-    </td>
+    
   </tr>
 </table>
 
