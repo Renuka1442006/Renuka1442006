@@ -12,14 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Renuka+Khune;Java+Developer+%E2%98%95;Full-Stack+Engineer+%F0%9F%8C%90;DSA+%26+Algorithms+Enthusiast+%F0%9F%A7%A0;Building+Scalable+Web+Solutions+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-00F5FF?style=for-the-badge&logoColor=black" />
-</p>
-
-<br>
 
 ---
 
