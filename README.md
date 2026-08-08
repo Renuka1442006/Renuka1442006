@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Renuka Khune
 
-<!--
-**Renuka1442006/Renuka1442006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Full-Stack Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+I'm a BTech IT student passionate about building real-world
+applications and solving problems using Java and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BTech Information Technology Student
+- 💻 Java Developer
+- 🌐 Learning Full-Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Interested in AI & Machine Learning
+- 🚀 Building real-world projects
+
+## 🛠️ Tech Stack
+
+Java • C++ • JavaScript • React • Node.js • Express • MongoDB • SQL
+
+## 📌 Projects
+
+### PublicPlus
+AI-powered civic reporting platform.
+
+### FoodWasteOptimizer
+A platform focused on reducing food waste.
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+- Portfolio
