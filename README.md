@@ -291,35 +291,9 @@ to build practical applications.
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================ -->
 
-<h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FF69B4&line=DA70D6&point=FFFFFF&area=true&hide_border=true"
-  width="94%"
-/>
-
-</p>
-
----
-
-<!-- ===================== SNAKE ========================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
-  width="90%"
-/>
-
-</p>
-
----
 
 <!-- ================= CURRENTLY LEARNING ================ -->
 
