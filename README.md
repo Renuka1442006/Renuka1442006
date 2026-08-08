@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
-  </a>
+ 
   <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-00F5FF?style=for-the-badge&logoColor=black" />
