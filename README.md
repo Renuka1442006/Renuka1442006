@@ -87,7 +87,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
