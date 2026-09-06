@@ -174,8 +174,8 @@
 <h2 align="center">📊 GitHub Engineering Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&title_color=00F5FF&icon_color=8A2BE2" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00F5FF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renuka1442006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&title_color=00F5FF&icon_color=8A2BE2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renuka1442006&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00F5FF" width="40%" />
 </p>
 
 <p align="center">
