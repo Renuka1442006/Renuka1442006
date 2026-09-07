@@ -179,7 +179,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=8A2BE2&fire=00F5FF" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=Renuka1442006&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=8A2BE2&fire=00F5FF" width="65%" />
 </p>
 
 ---
